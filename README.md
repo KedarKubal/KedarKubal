@@ -4,7 +4,7 @@
 
 - <b>Blockchain</b>
   
-- <b>Cybersecrity</b>
+- <b>Cybersecurity</b>
   
 - <b>AI tools</b>
 
