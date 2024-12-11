@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Blockchain</b>
-  
+  - [DEX](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Cybersecurity</b>
   
 - <b>AI tools</b>
