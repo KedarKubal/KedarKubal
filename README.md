@@ -1,10 +1,9 @@
 <h1>Hi, I'm Kedar!</h1>
 
 <h2>👨‍💻 Projects:</h2>
-<!--
 - <b>Blockchain</b>
   - [DEX](https://github.com/KedarPythonDev/DEX1.1)
- -->
+ 
 - <b>Opensource with AI </b>
 
 
