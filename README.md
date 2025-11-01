@@ -36,7 +36,7 @@ Currently studying at RMIT University in Melbourne, Australia, with a passion fo
 - Performed statistical analysis on US film market trends, identifying genre popularity with inferential statistics and Tableau dashboards.
 - **Technologies:** Python, SQL, Tableau, Power BI
 - **[Repo Link](https://github.com/yourusername/film-trends-analysis)** (Replace with actual repo if available)
-- 
+  
 ### Software Engineering at LTIM (Dec 2021 - Jan 2024)
 - Contributed to feature development in a SAFe framework, including code reviews, hotfixes, and incident monitoring with Test-Driven Development. 
 - **Technologies:** COBOL, CICS, DB2, Agile Tools (Jira)
