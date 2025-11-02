@@ -111,7 +111,7 @@ Currently studying at RMIT University in Melbourne, Australia, with a passion fo
 <div align="center">
 
 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedar-kubal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedarkubal1/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedarkubal@yahoo.com)  
 📍 Melbourne, Australia  
 
