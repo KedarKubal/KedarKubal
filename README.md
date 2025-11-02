@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kedar Kubal! 👋
 
-[![Kedar Kubal LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedar-kubal)
+[![Kedar Kubal LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedarkubal1/)
 [![Kedar Kubal Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedarkubal@yahoo.com)
 
 **Master of Data Science Student | Software Engineer | Data Analyst**  
