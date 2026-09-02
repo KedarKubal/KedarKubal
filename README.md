@@ -40,7 +40,7 @@ Two monorepos wiring the same four services together in different shapes, plus e
 - The same four services reframed around one seam: the feature-flag service as control plane, with its audit trail promoted to a first-class ETL data source.
 - Split failure philosophy by path — runtime reads fail open, the audit ETL path fails loud so a lost audit batch is never silently reported as success.
 - **Technologies:** Node.js, Express, Python, Flutter, Melos, PostgreSQL, Docker Compose
-- **[Repo Link]([https://github.com/KedarKubal/platform-monorepo](https://github.com/KedarKubal/platform-monorepo/)** 
+- **[https://github.com/KedarKubal/platform-monorepo](https://github.com/KedarKubal/platform-monorepo/)** 
 
 ### 🧪 Migration Platform — Python ETL Pipeline
 - Legacy CSV/relational-DB data → normalized schema, with **quarantine-don't-crash** row validation and idempotent, dependency-ordered upserts.
