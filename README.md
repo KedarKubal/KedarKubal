@@ -34,19 +34,19 @@ Two monorepos wiring the same four services together in different shapes, plus e
 - Four independent services chained into one real, one-directional data flow: demo site → ETL → feature-flag service → live dashboard.
 - Applied a **fail-open reads, fail-loud writes** philosophy — flag reads never crash a migration run, but a failed flag write is never silently swallowed.
 - **Technologies:** Python, Node.js, Flutter, PostgreSQL, Docker Compose, ETL
-- **[Repo Link](https://github.com/KedarKubal/pipeline-monorepo)** *(replace with actual repo if named differently)*
+- **[Repo Link]([https://github.com/KedarKubal/pipeline-monorepo](https://github.com/KedarKubal/pipeline-monorepo/))** *
 
 ### 🕸️ Platform Monorepo — Control-Plane Architecture
 - The same four services reframed around one seam: the feature-flag service as control plane, with its audit trail promoted to a first-class ETL data source.
 - Split failure philosophy by path — runtime reads fail open, the audit ETL path fails loud so a lost audit batch is never silently reported as success.
 - **Technologies:** Node.js, Express, Python, Flutter, Melos, PostgreSQL, Docker Compose
-- **[Repo Link](https://github.com/KedarKubal/platform-monorepo)** *(replace with actual repo if named differently)*
+- **[Repo Link]([https://github.com/KedarKubal/platform-monorepo](https://github.com/KedarKubal/platform-monorepo/)** *
 
 ### 🧪 Migration Platform — Python ETL Pipeline
 - Legacy CSV/relational-DB data → normalized schema, with **quarantine-don't-crash** row validation and idempotent, dependency-ordered upserts.
 - Pure-function transform layer enables a 19-test unit suite that runs in under a second with no database required.
 - **Technologies:** Python, SQLAlchemy, Alembic, Pandas, PostgreSQL, Pytest
-- **[Repo Link](https://github.com/KedarKubal/migration-platform)** *(replace with actual repo if named differently)*
+- **[Repo Link]([https://github.com/KedarKubal/migration-platform](https://github.com/KedarKubal/migration-platform/))** *(replace with actual repo if named differently)*
 
 ### 🚦 Config Toggle Service — Feature Flag & Config Microservice
 - Production-shaped Node.js/Express feature-flag service with a concurrency-safe write queue and write-to-temp-then-rename file persistence.
@@ -88,7 +88,7 @@ Two monorepos wiring the same four services together in different shapes, plus e
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Docker](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -117,10 +117,7 @@ Two monorepos wiring the same four services together in different shapes, plus e
   *Coursework: Data Mining, Machine Learning, Statistical Modelling, Database Management*
 
 - **Graduate Certificate in Business**
-  La Trobe University, Bendigo, Australia (Jul 2024 - Nov 2024)
-
-- **Management Consulting Nano Degree**
-  Jobaaj, India (Apr 2024 - May 2024)
+  La Trobe University, Australia(Jul 2024 - Nov 2024)
 
 - **B.E. in Mechanical Engineering**
   University of Mumbai, India (Aug 2016 - Nov 2020)
