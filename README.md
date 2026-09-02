@@ -19,12 +19,6 @@ Currently studying at RMIT University in Melbourne, Australia, with a background
 - 📫 **How to reach me:** Email at kedarkubal@yahoo.com or connect on LinkedIn.
 - ⚡ **Fun fact:** Attended SciPy India 2019 and Techfest IIT Bombay workshops to fuel my tech curiosity.
 
-<div align="center">
-
-![Kedar Kubal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KedarKubal&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKubal&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 👨‍💻 Featured Projects
 
@@ -34,37 +28,37 @@ Two monorepos wiring the same four services together in different shapes, plus e
 - Four independent services chained into one real, one-directional data flow: demo site → ETL → feature-flag service → live dashboard.
 - Applied a **fail-open reads, fail-loud writes** philosophy — flag reads never crash a migration run, but a failed flag write is never silently swallowed.
 - **Technologies:** Python, Node.js, Flutter, PostgreSQL, Docker Compose, ETL
-- **[https://github.com/KedarKubal/pipeline-monorepo](https://github.com/KedarKubal/pipeline-monorepo/)** 
+- **[View Project](https://github.com/KedarKubal/pipeline-monorepo/)** 
 
 ### 🕸️ Platform Monorepo — Control-Plane Architecture
 - The same four services reframed around one seam: the feature-flag service as control plane, with its audit trail promoted to a first-class ETL data source.
 - Split failure philosophy by path — runtime reads fail open, the audit ETL path fails loud so a lost audit batch is never silently reported as success.
 - **Technologies:** Node.js, Express, Python, Flutter, Melos, PostgreSQL, Docker Compose
-- **[https://github.com/KedarKubal/platform-monorepo](https://github.com/KedarKubal/platform-monorepo/)** 
+- **[View Project](https://github.com/KedarKubal/platform-monorepo/)** 
 
 ### 🧪 Migration Platform — Python ETL Pipeline
 - Legacy CSV/relational-DB data → normalized schema, with **quarantine-don't-crash** row validation and idempotent, dependency-ordered upserts.
 - Pure-function transform layer enables a 19-test unit suite that runs in under a second with no database required.
 - **Technologies:** Python, SQLAlchemy, Alembic, Pandas, PostgreSQL, Pytest
-- **[https://github.com/KedarKubal/migration-platform](https://github.com/KedarKubal/migration-platform/)** 
+- **[View Project](https://github.com/KedarKubal/migration-platform/)** 
 
 ### 🚦 Config Toggle Service — Feature Flag & Config Microservice
 - Production-shaped Node.js/Express feature-flag service with a concurrency-safe write queue and write-to-temp-then-rename file persistence.
 - 17 unit + integration tests (Jest + Supertest); multi-stage Dockerfile with non-root user and healthcheck.
 - **Technologies:** Node.js, Express, Jest, Supertest, Docker
-- **[https://github.com/KedarKubal/config-toggle-service](https://github.com/KedarKubal/config-toggle-service)**
+- **[View Project](https://github.com/KedarKubal/config-toggle-service)**
 
 ### 📊 Adobe Analytics Implementation — E-commerce Tracking & Reporting
 - Full measurement lifecycle for a fictional e-commerce site: tracking plan → data layer → Launch rules → processing rules/SAINT classifications → funnel reporting.
 - Python Adobe Analytics 2.0 Reporting API client with a schema-accurate mock-mode fallback for running without live credentials.
 - **Technologies:** JavaScript, Python, Adobe Analytics, Adobe Launch
-- **[https://github.com/KedarKubal/adobe-analytics-demo](https://github.com/KedarKubal/adobe-analytics-project/)**
+- **[View Project](https://github.com/KedarKubal/adobe-analytics-project/)**
 
 ### 🎨 Flutter DSM — Design System Component Library
 - Tokens, components, golden-tested visual regression, and a Widgetbook catalog structured as an independently-publishable Melos monorepo.
 - Live Widgetbook use case polls a feature-flag service to hot-switch component variants without a rebuild.
 - **Technologies:** Flutter, Dart, Melos, Widgetbook, flutter_hooks
-- **[https://github.com/KedarKubal/flutter-dsm](https://github.com/KedarKubal/flutter-dsm/)**
+- **[View Project](https://github.com/KedarKubal/flutter-dsm/)**
 
 ## 🛠️ Skills & Tools
 
