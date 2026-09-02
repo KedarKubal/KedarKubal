@@ -22,6 +22,12 @@ Currently studying at RMIT University in Melbourne, Australia, with a background
 
 ## 👨‍💻 Featured Projects
 
+### 🎧 Heya AI — Voice Analytics Platform
+- Multi-tenant SaaS platform that turns AI voice agent call recordings into call intelligence dashboards, combining an acoustic ML pipeline, RAG chat, and a ReAct reasoning agent in one system.
+- Applied a **three-layer tenant isolation** philosophy — JWT claims, application-level checks, and PostgreSQL Row-Level Security all independently enforce that no client can see another client's data.
+- **Technologies:** Python, FastAPI, React, PostgreSQL, pgvector, PyTorch, Cerebras API
+- **[View Project](https://github.com/KedarKubal/Voice-Analytics)**
+
 Two monorepos wiring the same four services together in different shapes, plus each of the four underlying services as its own standalone project.
 
 ### 🔀 Pipeline Monorepo — Linear Four-Stage Data Pipeline
