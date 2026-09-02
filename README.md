@@ -135,9 +135,9 @@ Two monorepos wiring the same four services together in different shapes, plus e
 
 ## 🌍 Languages
 
-- **Marathi** - Native
-- **English** - C1 (Listening/Reading/Writing), B2 (Spoken)
-- **Hindi** - B2 (All Skills)
+- **Marathi** - Native fluency
+- **English** - C1 (Listening/Reading/Writing/Spoken)
+- **Hindi** - Native fluency
 
 ---
 
