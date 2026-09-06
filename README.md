@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Kedar Kubal! 👋
+# Hi there, I'm Kedar Kubal! 👋 
 
 [![Kedar Kubal LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedarkubal1/)
 [![Kedar Kubal Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedarkubal@yahoo.com)
@@ -42,6 +42,8 @@ Two monorepos wiring the same four services together in different shapes, plus e
 - **Technologies:** Node.js, Express, Python, Flutter, Melos, PostgreSQL, Docker Compose
 - **[View Project](https://github.com/KedarKubal/platform-monorepo/)** 
 
+
+<!--
 ### 🧪 Migration Platform — Python ETL Pipeline
 - Legacy CSV/relational-DB data → normalized schema, with **quarantine-don't-crash** row validation and idempotent, dependency-ordered upserts.
 - Pure-function transform layer enables a 19-test unit suite that runs in under a second with no database required.
@@ -65,6 +67,8 @@ Two monorepos wiring the same four services together in different shapes, plus e
 - Live Widgetbook use case polls a feature-flag service to hot-switch component variants without a rebuild.
 - **Technologies:** Flutter, Dart, Melos, Widgetbook, flutter_hooks
 - **[View Project](https://github.com/KedarKubal/flutter-dsm/)**
+
+-->
 
 ## 🛠️ Skills & Tools
 
