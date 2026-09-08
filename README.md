@@ -111,7 +111,7 @@ Two monorepos wiring the same four services together in different shapes, plus e
   Dreamport, Dubai (Remote) (Feb 2024 - Mar 2024)
   Provided tailored travel recommendations and managed the end-to-end client lead pipeline.
 
-- **Data Analyst**
+- **Software Engineer**
   LTIMindtree (LTIM), Airoli, India (Dec 2021 - Jan 2024)
   Developed features for enterprise insurance systems in COBOL/CICS/DB2 within a SAFe Agile framework; applied TDD and peer code review; provided incident monitoring and hotfix support for live insurance systems.
 
