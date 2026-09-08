@@ -3,7 +3,7 @@
 # Hi there, I'm Kedar Kubal! 👋 
 
 [![Kedar Kubal LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedarkubal1/)
-[![Kedar Kubal Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedarkubal@yahoo.com)
+[![Kedar Kubal Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdrkbl@gmail.com)
 
 **Master of Data Science Student | Software Engineer | Data Analyst**
 Currently studying at RMIT University in Melbourne, Australia, with a background spanning enterprise software engineering, GPU-accelerated audio/ML pipelines, and applied statistics. Seeking opportunities to leverage Python, SQL, ETL engineering, and machine learning in production systems.
