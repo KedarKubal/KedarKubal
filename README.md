@@ -113,7 +113,7 @@ Two monorepos wiring the same four services together in different shapes, plus e
 
 - **Data Analyst**
   LTIMindtree (LTIM), Airoli, India (Dec 2021 - Jan 2024)
-  Developed features for enterprise banking systems in COBOL/CICS/DB2 within a SAFe Agile framework; applied TDD and peer code review; provided incident monitoring and hotfix support for live insurance systems.
+  Developed features for enterprise insurance systems in COBOL/CICS/DB2 within a SAFe Agile framework; applied TDD and peer code review; provided incident monitoring and hotfix support for live insurance systems.
 
 ## 📚 Education
 
