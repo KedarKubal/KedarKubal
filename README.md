@@ -16,7 +16,7 @@ Currently studying at RMIT University in Melbourne, Australia, with a background
 - 🌱 **Learning:** Advanced NLP techniques, database management, and deploying ML models in production.
 - 👯 **Open to collaborate on:** Open-source data science tools, RAG systems, and data pipeline / feature-flag infrastructure.
 - 💬 **Ask me about:** Hypothesis testing, Bayesian inference, ETL pipeline design, RAG systems, or Agile methodologies.
-- 📫 **How to reach me:** Email at kdrkbl@gmail.com or connect on LinkedIn.
+- 📫 **How to reach me:** Email at kedarkubal@yahoo.com or connect on LinkedIn.
 - ⚡ **Fun fact:** Attended SciPy India 2019 and Techfest IIT Bombay workshops to fuel my tech curiosity.
 
 
