@@ -30,13 +30,13 @@ Currently studying at RMIT University in Melbourne, Australia, with a background
 
 Two monorepos wiring the same four services together in different shapes, plus each of the four underlying services as its own standalone project.
 
-### 🔀 Pipeline Monorepo — Linear Four-Stage Data Pipeline
+### 🔀 Real-Time Data Pipeline & Analytics Dashboard — ETL, Feature Flags & Live Metrics
 - Four independent services chained into one real, one-directional data flow: demo site → ETL → feature-flag service → live dashboard.
 - Applied a **fail-open reads, fail-loud writes** philosophy — flag reads never crash a migration run, but a failed flag write is never silently swallowed.
 - **Technologies:** Python, Node.js, Flutter, PostgreSQL, Docker Compose, ETL
 - **[View Project](https://github.com/KedarKubal/pipeline-monorepo/)** 
 
-### 🕸️ Platform Monorepo — Control-Plane Architecture
+### 🕸️ Feature-Flag Control Plane — Multi-Service Config Management & Audit Trail
 - The same four services reframed around one seam: the feature-flag service as control plane, with its audit trail promoted to a first-class ETL data source.
 - Split failure philosophy by path — runtime reads fail open, the audit ETL path fails loud so a lost audit batch is never silently reported as success.
 - **Technologies:** Node.js, Express, Python, Flutter, Melos, PostgreSQL, Docker Compose
@@ -98,7 +98,8 @@ Two monorepos wiring the same four services together in different shapes, plus e
 
 ## 📊 Work Experience
 
-- **Audio Pipeline Lead**
+- **AI Engineer**
+- Data Pipeline Lead
   Heya AI, Melbourne, Australia (Mar 2026 - Jun 2026)
   Engineered a GPU-accelerated audio intelligence pipeline (speaker diarisation, emotion classification) and a zero-hallucination RAG conversational interface grounded in verified SQL statistics; delivered a multi-tenant SaaS platform with row-level security, validated by a 647-test suite.
 
@@ -110,7 +111,7 @@ Two monorepos wiring the same four services together in different shapes, plus e
   Dreamport, Dubai (Remote) (Feb 2024 - Mar 2024)
   Provided tailored travel recommendations and managed the end-to-end client lead pipeline.
 
-- **Software Engineer**
+- **Data Analyst**
   LTIMindtree (LTIM), Airoli, India (Dec 2021 - Jan 2024)
   Developed features for enterprise banking systems in COBOL/CICS/DB2 within a SAFe Agile framework; applied TDD and peer code review; provided incident monitoring and hotfix support for live insurance systems.
 
