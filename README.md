@@ -99,7 +99,7 @@ Two monorepos wiring the same four services together in different shapes, plus e
 ## 📊 Work Experience
 
 - **AI Engineer**
-  *Data Pipeline Lead*
+  *(Data Pipeline Lead)*
   Heya AI, Melbourne, Australia (Mar 2026 - Jun 2026)
   Engineered a GPU-accelerated audio intelligence pipeline (speaker diarisation, emotion classification) and a zero-hallucination RAG conversational interface grounded in verified SQL statistics; delivered a multi-tenant SaaS platform with row-level security, validated by a 647-test suite.
 
